@@ -62,6 +62,15 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "MetaXRHaptics",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4fe0628096b34166b616f74c4ed974af",
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android"
+			]
 		}
 	],
 	"TargetPlatforms": [
