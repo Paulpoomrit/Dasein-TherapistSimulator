@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08c73345-dcf5-4d5b-959f-6928b445c707" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/DefaultGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/DefaultGame.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content/Dynamic/0_Levels/1_MixedReality.umap" beforeDir="false" afterPath="$PROJECT_DIR$/../Content/Dynamic/0_Levels/1_MixedReality.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content/Dynamic/1_MixedReality/AC_GameManager.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../Content/Dynamic/1_MixedReality/AC_GameManager.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content/Dynamic/1_MixedReality/VRPawn.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../Content/Dynamic/1_MixedReality/VRPawn.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content/Dynamic/3_Widgets/2_LeftHandMenu/BP_Menu.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content/MetaHumans/Orla/BP_Orla_Preview.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../Content/MetaHumans/Orla/BP_Orla_Preview.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content/Static/VRTemplate/Blueprints/Menu.uasset" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2ymVRfYppZCUw4knGHH4m1y09cp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Paul's-branch",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08c73345-dcf5-4d5b-959f-6928b445c707" name="Changes" comment="" />
+      <created>1750439729821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750439729821</updated>
+      <workItem from="1750439731800" duration="128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
