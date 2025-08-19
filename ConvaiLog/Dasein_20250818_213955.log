@@ -1,0 +1,13 @@
+[21:39:55] ConvaiSubsystemLog : Log : gRPC Creating Channel...
+[21:39:55] ConvaiSubsystemLog : Log : UConvaiSubsystem Started
+[21:39:55] ConvaiSubsystemLog : Log : Start Run
+[21:39:55] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[21:39:55] ConvaiSubsystemLog : Verbose : Registered player component: ConvaiPlayer
+[21:40:11] ConvaiSubsystemLog : Verbose : Unregistered player component: ConvaiPlayer
+[21:40:11] ConvaiSubsystemLog : Log : UConvaiSubsystem Stopped
+[21:40:11] ConvaiSubsystemLog : Log : End Run
+[21:40:18] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[21:40:18] ConvaiGRPCLog : Log : Destroying UConvaiGRPCGetResponseProxy... | Character ID :  | Session ID : 
+[21:40:18] ConvaiGRPCFeedBackLog : Log : On Stream Finish | Interaction ID :  | Feedback Text :  | ThumbsUp: False
+[21:40:18] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[21:40:18] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
