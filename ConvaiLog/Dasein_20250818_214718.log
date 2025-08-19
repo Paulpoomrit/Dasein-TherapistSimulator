@@ -7,3 +7,65 @@
 [21:47:49] ConvaiSubsystemLog : Log : End Run
 [21:47:49] ConvaiSubsystemLog : Log : UConvaiSubsystem Stopped
 [21:47:49] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 360f1c86-c98a-11ef-82c5-42010a7be016 | Session ID : -1
+[22:08:23] ConvaiSubsystemLog : Log : gRPC Creating Channel...
+[22:08:23] ConvaiSubsystemLog : Log : UConvaiSubsystem Started
+[22:08:23] ConvaiSubsystemLog : Log : Start Run
+[22:08:27] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:08:27] ConvaiSubsystemLog : Verbose : Registered player component: ConvaiPlayer
+[22:08:35] ConvaiSubsystemLog : Verbose : Unregistered player component: ConvaiPlayer
+[22:08:35] ConvaiSubsystemLog : Log : UConvaiSubsystem Stopped
+[22:08:35] ConvaiSubsystemLog : Log : End Run
+[22:09:11] ConvaiSubsystemLog : Log : gRPC Creating Channel...
+[22:09:11] ConvaiSubsystemLog : Log : UConvaiSubsystem Started
+[22:09:11] ConvaiSubsystemLog : Log : Start Run
+[22:09:11] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:09:11] ConvaiSubsystemLog : Verbose : Registered player component: ConvaiPlayer
+[22:09:28] ConvaiSubsystemLog : Verbose : Unregistered player component: ConvaiPlayer
+[22:09:28] ConvaiSubsystemLog : Log : UConvaiSubsystem Stopped
+[22:09:28] ConvaiSubsystemLog : Log : End Run
+[22:09:40] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:09:46] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:12:06] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:12:06] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:12:06] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:12:06] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:12:06] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:12:06] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:12:06] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:12:23] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:12:23] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:12:23] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:12:23] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:12:23] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:12:24] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:12:24] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:14:00] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:14:00] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:14:00] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:14:00] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:14:00] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:14:00] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:14:00] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:14:02] ConvaiSubsystemLog : Log : gRPC Creating Channel...
+[22:14:02] ConvaiSubsystemLog : Log : UConvaiSubsystem Started
+[22:14:02] ConvaiSubsystemLog : Log : Start Run
+[22:14:02] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:14:02] ConvaiSubsystemLog : Verbose : Registered player component: ConvaiPlayer
+[22:14:29] ConvaiSubsystemLog : Verbose : Unregistered player component: ConvaiPlayer
+[22:14:29] ConvaiSubsystemLog : Log : UConvaiSubsystem Stopped
+[22:14:29] ConvaiSubsystemLog : Log : End Run
+[22:14:29] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 360f1c86-c98a-11ef-82c5-42010a7be016 | Session ID : -1
+[22:16:23] ConvaiSubsystemLog : Log : gRPC Creating Channel...
+[22:16:23] ConvaiSubsystemLog : Log : UConvaiSubsystem Started
+[22:16:23] ConvaiSubsystemLog : Log : Start Run
+[22:16:23] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[22:16:23] ConvaiSubsystemLog : Verbose : Registered player component: ConvaiPlayer
+[22:16:49] ConvaiSubsystemLog : Verbose : Unregistered player component: ConvaiPlayer
+[22:16:49] ConvaiSubsystemLog : Log : UConvaiSubsystem Stopped
+[22:16:49] ConvaiSubsystemLog : Log : End Run
+[22:16:49] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 360f1c86-c98a-11ef-82c5-42010a7be016 | Session ID : -1
+[22:17:05] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[22:17:05] ConvaiGRPCLog : Log : Destroying UConvaiGRPCGetResponseProxy... | Character ID :  | Session ID : 
+[22:17:05] ConvaiGRPCFeedBackLog : Log : On Stream Finish | Interaction ID :  | Feedback Text :  | ThumbsUp: False
+[22:17:05] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[22:17:05] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
