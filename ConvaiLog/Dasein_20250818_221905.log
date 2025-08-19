@@ -322,3 +322,9 @@
 [23:20:02] ConvaiSubsystemLog : Verbose : Unregistered player component: ConvaiPlayer
 [23:20:02] ConvaiSubsystemLog : Log : UConvaiSubsystem Stopped
 [23:20:02] ConvaiSubsystemLog : Log : End Run
+[23:46:28] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[23:46:31] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[23:46:31] ConvaiGRPCLog : Log : Destroying UConvaiGRPCGetResponseProxy... | Character ID :  | Session ID : 
+[23:46:31] ConvaiGRPCFeedBackLog : Log : On Stream Finish | Interaction ID :  | Feedback Text :  | ThumbsUp: False
+[23:46:31] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[23:46:31] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
