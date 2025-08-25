@@ -122,3 +122,81 @@
 [16:52:34] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
 [16:52:34] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
 [16:52:34] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[16:53:24] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:07:54] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:07:54] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:08:43] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:08:43] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:08:43] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:08:43] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:08:43] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:08:43] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:08:48] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:08:48] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:08:48] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:08:48] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[17:08:48] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:08:48] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:09:04] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:09:04] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:09:29] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[17:09:29] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:09:29] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:09:29] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:09:29] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:09:29] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:25:31] ConvaiSubsystemLog : Log : gRPC Creating Channel...
+[17:25:31] ConvaiSubsystemLog : Log : UConvaiSubsystem Started
+[17:25:31] ConvaiSubsystemLog : Log : Start Run
+[17:25:31] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[17:25:32] ConvaiSubsystemLog : Verbose : Registered player component: ConvaiPlayer
+[17:26:03] ConvaiSubsystemLog : Verbose : Unregistered player component: ConvaiPlayer
+[17:26:03] ConvaiSubsystemLog : Log : UConvaiSubsystem Stopped
+[17:26:03] ConvaiSubsystemLog : Log : End Run
+[17:26:03] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:26:03] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:26:03] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:26:03] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:26:03] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:26:03] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:26:03] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:26:03] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:26:03] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:26:03] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:26:03] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:26:03] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:26:03] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:26:03] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:26:17] ConvaiSubsystemLog : Log : gRPC Creating Channel...
+[17:26:17] ConvaiSubsystemLog : Log : UConvaiSubsystem Started
+[17:26:17] ConvaiSubsystemLog : Log : Start Run
+[17:26:17] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[17:26:17] ConvaiSubsystemLog : Verbose : Registered player component: ConvaiPlayer
+[17:26:44] ConvaiSubsystemLog : Verbose : Unregistered player component: ConvaiPlayer
+[17:26:44] ConvaiSubsystemLog : Log : UConvaiSubsystem Stopped
+[17:26:44] ConvaiSubsystemLog : Log : End Run
+[17:30:53] ConvaiSubsystemLog : Log : gRPC Creating Channel...
+[17:30:53] ConvaiSubsystemLog : Log : UConvaiSubsystem Started
+[17:30:53] ConvaiSubsystemLog : Log : Start Run
+[17:30:53] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[17:30:53] ConvaiSubsystemLog : Verbose : Registered player component: ConvaiPlayer
+[17:31:24] ConvaiSubsystemLog : Verbose : Unregistered player component: ConvaiPlayer
+[17:31:24] ConvaiSubsystemLog : Log : UConvaiSubsystem Stopped
+[17:31:24] ConvaiSubsystemLog : Log : End Run
+[17:31:25] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:31:29] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[17:38:57] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:38:58] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[17:39:00] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[17:39:00] ConvaiGRPCLog : Log : Destroying UConvaiGRPCGetResponseProxy... | Character ID :  | Session ID : 
+[17:39:00] ConvaiGRPCFeedBackLog : Log : On Stream Finish | Interaction ID :  | Feedback Text :  | ThumbsUp: False
+[17:39:00] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[17:39:00] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[17:39:04] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[17:39:04] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[17:39:04] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[17:39:04] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[17:39:04] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[17:39:04] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[17:39:04] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[17:39:04] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
