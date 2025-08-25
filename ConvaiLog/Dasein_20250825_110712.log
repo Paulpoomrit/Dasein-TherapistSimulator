@@ -17,3 +17,80 @@
 [11:08:27] ConvaiSubsystemLog : Verbose : Unregistered player component: ConvaiPlayer
 [11:08:27] ConvaiSubsystemLog : Log : UConvaiSubsystem Stopped
 [11:08:27] ConvaiSubsystemLog : Log : End Run
+[11:09:31] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:09:31] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:09:36] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:09:36] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:09:36] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:09:36] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:09:46] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:09:46] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:09:53] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:09:53] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:09:53] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:09:53] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:09:53] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:09:53] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:09:53] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:10:08] ConvaiSubsystemLog : Log : gRPC Creating Channel...
+[11:10:08] ConvaiSubsystemLog : Log : Start Run
+[11:10:08] ConvaiSubsystemLog : Log : UConvaiSubsystem Started
+[11:10:08] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:10:08] ConvaiSubsystemLog : Verbose : Registered player component: ConvaiPlayer
+[11:10:35] ConvaiSubsystemLog : Verbose : Unregistered player component: ConvaiPlayer
+[11:10:35] ConvaiSubsystemLog : Log : UConvaiSubsystem Stopped
+[11:10:35] ConvaiSubsystemLog : Log : End Run
+[11:11:03] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:11:03] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:11:03] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:11:03] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:11:04] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:11:04] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:11:04] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:11:04] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:11:04] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:11:04] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:11:04] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:11:19] ConvaiSubsystemLog : Log : gRPC Creating Channel...
+[11:11:19] ConvaiSubsystemLog : Log : Start Run
+[11:11:19] ConvaiSubsystemLog : Log : UConvaiSubsystem Started
+[11:11:19] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:11:19] ConvaiSubsystemLog : Verbose : Registered player component: ConvaiPlayer
+[11:11:55] ConvaiSubsystemLog : Verbose : Unregistered player component: ConvaiPlayer
+[11:11:55] ConvaiSubsystemLog : Log : UConvaiSubsystem Stopped
+[11:11:55] ConvaiSubsystemLog : Log : End Run
+[11:12:15] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:12:15] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:12:25] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:12:25] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:12:26] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:12:26] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:12:26] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:12:26] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:12:26] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:12:26] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:12:26] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:12:40] ConvaiSubsystemLog : Log : gRPC Creating Channel...
+[11:12:40] ConvaiSubsystemLog : Log : UConvaiSubsystem Started
+[11:12:40] ConvaiSubsystemLog : Log : Start Run
+[11:12:40] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:12:40] ConvaiSubsystemLog : Verbose : Registered player component: ConvaiPlayer
+[11:13:23] ConvaiSubsystemLog : Verbose : Unregistered player component: ConvaiPlayer
+[11:13:23] ConvaiSubsystemLog : Log : UConvaiSubsystem Stopped
+[11:13:23] ConvaiSubsystemLog : Log : End Run
+[11:13:49] ConvaiSubsystemLog : Log : gRPC Creating Channel...
+[11:13:49] ConvaiSubsystemLog : Log : Start Run
+[11:13:49] ConvaiSubsystemLog : Log : UConvaiSubsystem Started
+[11:13:49] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:13:49] ConvaiSubsystemLog : Verbose : Registered player component: ConvaiPlayer
+[11:14:31] ConvaiSubsystemLog : Verbose : Unregistered player component: ConvaiPlayer
+[11:14:31] ConvaiSubsystemLog : Log : UConvaiSubsystem Stopped
+[11:14:31] ConvaiSubsystemLog : Log : End Run
+[11:14:57] ConvaiSubsystemLog : Log : gRPC Creating Channel...
+[11:14:57] ConvaiSubsystemLog : Log : Start Run
+[11:14:57] ConvaiSubsystemLog : Log : UConvaiSubsystem Started
+[11:14:57] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:14:57] ConvaiSubsystemLog : Verbose : Registered player component: ConvaiPlayer
+[11:16:03] ConvaiSubsystemLog : Verbose : Unregistered player component: ConvaiPlayer
+[11:16:03] ConvaiSubsystemLog : Log : UConvaiSubsystem Stopped
+[11:16:03] ConvaiSubsystemLog : Log : End Run
