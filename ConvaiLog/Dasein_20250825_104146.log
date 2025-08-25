@@ -1,0 +1,46 @@
+[10:41:46] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[10:41:46] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[10:41:46] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[10:41:46] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[10:41:46] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[10:41:47] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[10:41:47] ConvaiChatbotComponentLog : Log : Cleanup | Character ID :  | Session ID : -1
+[10:41:47] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[10:41:47] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[10:41:47] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[11:00:19] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[11:00:19] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[11:00:19] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[11:00:19] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[11:00:19] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[11:00:19] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[11:00:19] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[11:00:19] ConvaiChatbotComponentLog : Log : Cleanup | Character ID : 232fa388-76f5-11f0-9d07-42010a7be01f | Session ID : -1
+[11:00:31] ConvaiSubsystemLog : Log : gRPC Creating Channel...
+[11:00:31] ConvaiSubsystemLog : Log : UConvaiSubsystem Started
+[11:00:31] ConvaiSubsystemLog : Log : Start Run
+[11:00:32] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:00:32] ConvaiSubsystemLog : Verbose : Registered player component: ConvaiPlayer
+[11:01:10] ConvaiSubsystemLog : Verbose : Unregistered player component: ConvaiPlayer
+[11:01:10] ConvaiSubsystemLog : Log : UConvaiSubsystem Stopped
+[11:01:10] ConvaiSubsystemLog : Log : End Run
+[11:01:13] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:01:15] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:03:31] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:03:31] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:03:40] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:03:40] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:03:40] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:03:40] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:03:41] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:03:41] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:03:41] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:03:41] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:03:44] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:03:44] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:03:44] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:03:44] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:03:46] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:03:46] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:03:46] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
+[11:03:46] ConvaiPlayerLog : Log : UConvaiPlayerComponent: Found submix "AudioInput"
